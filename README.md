@@ -32,3 +32,8 @@ To run this project locally, follow the steps below.
    ```bash
    git clone https://github.com/your-username/qr-code-generator.git
    cd qr-code-generator
+
+2. **Install backend dependencies:**:
+    ```bash
+    cd server
+    npm install
