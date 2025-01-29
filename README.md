@@ -55,7 +55,7 @@ To run this project locally, follow the steps below.
 
 
 ## Usage:
-1.Enter any product name or URL in the id field and eneter any number in price field.
-2.Click the "Generate QR Code" button to generate the QR code.
-3.View the generated QR code on the screen.
-4.Scan it with your pmobile phone and get that same data.
+- 1.Enter any product name or URL in the id field and eneter any number in price field.
+- 2.Click the "Generate QR Code" button to generate the QR code.
+- 3.View the generated QR code on the screen.
+- 4.Scan it with your pmobile phone and get that same data.
